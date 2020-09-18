@@ -1,0 +1,5 @@
+An application that is both interesting and tractable:
+	An app that, given a melody (sung through the mic, most likely) will auto-generate harmonies above and below that melody. Useful for songwriting and creating new ideas for melodies.
+
+A wacky application:
+	An app that lets you take a picture of a certain area and tells you what that picture contains. This could be useful for finding missing items if you know the general location where you lost them. It could also help spot hard-to-notice things, such as animals hiding in bushes, birds hiding in trees, or Waldos hiding in books.

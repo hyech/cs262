@@ -1,0 +1,19 @@
+1. Demographics
+	a. I am a junior
+	b. BCS
+	c. A's in both
+
+2. Technical
+	a. I have worked on a JavaScript application, specifically a rudimentary web application that I put together during my summer research with Professor Arnold.
+	b. I have used Trello and Git, the former as a personal checklist of sorts and the latter during my summer research to collaborate with the other student working with me.
+	c. The group I have outlined in 3b have an idea for an app that will serve as a map of the campus where individual classrooms can be highlighted and directions provided.
+
+3. Personality
+	a. Openness: 62.5%
+	   Conscientiousness: 44%
+	   Extraversion: 17%
+	   Agreeableness: 50%
+	   Neuroticism: 85%
+	b. I would like to work with Duncan Van Keulen, Joel Muyskens, Ha-Ram Koo, and Alex Johnson
+
+4. I have several other group projects in my other classes that will span the whole semester, so my attention may be a little divided.
