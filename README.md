@@ -1,2 +1,2 @@
 # CS 262 Repository for Calvin University
-Contains all coursework for CS 262.
+Contains all coursework done by Hyechan Jun for CS 262.
