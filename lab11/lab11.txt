@@ -1,0 +1,9 @@
+Accepted Changes:
+Change all double-quote strings to single-quotes
+Prefer const to let
+Remove blank line padding
+Change line spacing for ternary expression
+Remove duplicate keys in style
+
+Denied Changes:
+Remove all semicolons, because I find it helpful to see the semicolons for line endings
